@@ -4,7 +4,7 @@
 To connect from Windows → Linux server, use tools:
 - Git Bash
 - PuTTY                                                    
-- WinSCP                                                          
+- WinSCP                                                                            
 - MobaXterm
 
 ## 🔑 SSH & Keys
