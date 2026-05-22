@@ -1,6 +1,6 @@
 # Linux commands for DevOps
 ## Connecting Windows to Linux
-                    
+                                        
 To connect from Windows → Linux server, use tools:
 - Git Bash
 - PuTTY              
