@@ -3,7 +3,7 @@
                                                                                                                                       
 To connect from Windows → Linux server, use tools:
 - Git Bash
-- PuTTY                            
+- PuTTY                                                    
 - WinSCP
 - MobaXterm
 
