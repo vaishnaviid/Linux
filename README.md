@@ -8,7 +8,7 @@ To connect from Windows → Linux server, use tools:
 - MobaXterm
                                                 
 ## 🔑 SSH & Keys
-
+                                                                          
 Communication between client and server happens via SSH.
 
 Uses public & private key pairs (ssh-keygen).
