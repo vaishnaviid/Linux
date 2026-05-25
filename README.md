@@ -7,7 +7,7 @@ To connect from Windows → Linux server, use tools:
 - WinSCP                                                                            
 - MobaXterm
                                                                                                                                     
-## 🔑 SSH & Keys
+## 🔑 SSH & Keys                                                                          
                                                                           
 Communication between client and server happens via SSH.
 
